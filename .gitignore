@@ -1,0 +1,9 @@
+.idea/*.*
+/.idea/*
+*.pyc
+media/*.*
+media/*
+statics/*.*
+statics/*
+news/migrations/*.*
+settings.py
