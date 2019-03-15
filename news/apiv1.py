@@ -78,6 +78,8 @@ class ContentViewSet(viewsets.GenericViewSet, ObtainAuthToken):
 
         try:
             nw = News.objects.get(pk=news_id)
+            nw.visit_count += 1
+            nw.save()
         except ObjectDoesNotExist:
             return create_response(False, "news with this id not exist", 404, 101, None, None)
 
