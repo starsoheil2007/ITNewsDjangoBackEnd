@@ -2,6 +2,10 @@
 
 This Back-End has developed by Python (Django-FrameWork) 
 
+You can download main application from google play :
+
+<a href="https://play.google.com/store/apps/details?id=ir.itbestnews.app"><img src="http://miyabiweb.info/wp-content/uploads/2018/12/google-play-logo-eps-free-google-play-icon-vector-302398-download-google-play-icon-printable.jpg" width="200"></a>
+
 ## Used technologies and library 
 
 - Python (Django)
